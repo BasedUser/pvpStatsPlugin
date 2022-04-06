@@ -9,6 +9,9 @@ The amount of points you have will be printed in front of your name.
  
 If a gameover occurs all the data will be written to a .json file.
 
+### Fork changes
+This fork is an experimental switch to an Elo-like system. The scaling is identical to chess scaling.
+
 ### Terminal commands
 * `writestats` --> dumps the data in a .json file
 * `pvp_timers [update/show]` --> shows the timers
@@ -33,7 +36,7 @@ Prebuild relases can be found [here](https://github.com/J-VdS/pvpStatsPlugin/rel
 mindustry.ru
 
 ### info/help
-You can always open an issue or contact me on discord: Fishbuilder#4502
+You can always open an issue or contact me on discord: BasedUser#2215. The original creator of this is Fishbuilder#4502.
 
 ### Building a Jar 
 
